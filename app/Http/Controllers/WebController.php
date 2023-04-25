@@ -1,11 +1,5 @@
 <?php
-
 namespace App\Http\Controllers;
-<<<<<<< HEAD
-
-
-=======
->>>>>>> branch1
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Db;
 use Illuminate\Http\Request;
