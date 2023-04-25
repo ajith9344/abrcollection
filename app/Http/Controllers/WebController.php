@@ -1,8 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-namespace App\Http\Controllers;
-
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Db;
 use Illuminate\Http\Request;
